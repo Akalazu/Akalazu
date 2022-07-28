@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/akalazu david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akalazu david" height="30" width="40" /></a>
+<a href="https://codepen.io/Kodekid003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akalazu david" height="30" width="40" /></a>
 <a href="https://twitter.com/akalazud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akalazud" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akalazu david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akalazu david" height="30" width="40" /></a>
-<a href="https://fb.com/akalazu david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akalazu david" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akalazu-david-1b51861b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akalazu david" height="30" width="40" /></a>
+<a href="https://web.facebook.com/akalazu.david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akalazu david" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
